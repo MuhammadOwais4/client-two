@@ -1,0 +1,9 @@
+first_name,last_name,email,group,joined_on,consent
+Maya,Lopez,maya.lopez@example.com,weekend-regulars,2026-02-14,yes
+Sam,Okafor,sam.okafor@example.com,weekend-regulars,2026-03-02,yes
+Priya,Shah,priya.shah@example.com,weekend-regulars,2026-04-19,yes
+Tom,Becker,tom.becker@example.com,weekend-regulars,2026-05-07,no
+Elena,Rossi,elena.rossi@example.com,wedding-planners,2026-01-22,yes
+Jordan,Kim,jordan.kim@example.com,wedding-planners,2026-03-15,yes
+Aisha,Rahman,aisha.rahman@example.com,wedding-planners,2026-06-01,yes
+Leo,Martin,leo.martin@example.com,wedding-planners,2026-07-10,no
